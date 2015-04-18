@@ -44,6 +44,7 @@ public class MainActivity extends ActionBarActivity {
         if (id == R.id.action_settings) {
             return true;
             //testCommit
+            //testCommit2
         }
 
         return super.onOptionsItemSelected(item);
