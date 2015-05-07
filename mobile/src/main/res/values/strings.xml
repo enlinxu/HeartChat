@@ -2,4 +2,10 @@
     <string name="app_name">HeartChat</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1582350385367868</string>
+    <string name="login_success">Login Successfully!</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
